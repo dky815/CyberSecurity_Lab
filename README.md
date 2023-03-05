@@ -1,4 +1,4 @@
-# CMPT732: CyberSecurity Lab1
+# CMPT 732 & 733: CyberSecurity Lab
 
 **Including many aspects in CyberSecurity:**
 
