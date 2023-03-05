@@ -8,7 +8,7 @@
 
 ```
 (a) Disable address space randomization
-$ sudo sysctl -w kernel.randomize_va_space=
+$ sudo sysctl -w kernel.randomize_va_space=0
 ```
 
 ```
